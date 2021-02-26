@@ -35,13 +35,8 @@
   },
   "dependencies": {
     "apollo-metrics": "^1.0.1",
-
-    "apollo-server": "^2.18.2",
-    "apollo-server-express": "^2.21.0",
-
     "apollo-server": "^2.21.0",
     "apollo-server-express": "^2.18.2",
-
     "args": "^5.0.1",
     "aws-sdk": "^2.784.0",
     "axios": "^0.21.1",
@@ -92,7 +87,7 @@
     "mock-aws-s3": "^4.0.1",
     "moment": "^2.29.1",
     "mongodb": "^3.6.2",
-    "mongoose": "^5.10.11",
+    "mongoose": "^5.11.18",
     "mongoose-lean-virtuals": "^0.7.2",
     "mustache": "^4.0.1",
     "object-hash": "^2.0.3",
@@ -114,7 +109,7 @@
     "chai-spies": "^1.0.0",
     "dockerlint": "^0.3.9",
     "dotenv": "^8.2.0",
-    "eslint": "^7.12.1",
+    "eslint": "^7.19.0",
     "ioredis-mock": "^5.0.0",
     "markdownlint-cli": "^0.24.0",
     "mocha": "^8.1.3",
